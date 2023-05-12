@@ -3,7 +3,7 @@
 <h3>Complete as fases dentro do tempo para a bomba não explodir!</h3> <br>
 
 Jogo feito na linguagem C++ que requer conhecimentos a cerca de conversão hexadecimal para binário. <br>
-Utilizamos o Arduino UNO em conjunto com os seguintes componentes: <br> <br>
+Utilizamos o Arduino UNO em conjunto com os seguintes componentes: <br> 
 - LED RGB. <br>
 - Jumpers. <br>
 - Resistores. <br>

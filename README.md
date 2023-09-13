@@ -17,6 +17,8 @@ e também para os colocarmos em prática através de uma atividade divertida. <b
 Se te ajudamos de alguma maneira, ficaremos felizes em saber! <br>
 Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhá-lo.
 
+⭐️ Alunos: Mariane Fontes, Gabriel Chaves e Carlos Eduardo.
+
 Se possível:
 
 ⭐️ Star o projeto <3
